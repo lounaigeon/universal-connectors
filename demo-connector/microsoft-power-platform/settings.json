@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_ui-202-20-2d-20summary-20care-20record-5f1f18f7-adf0c40782755a33",
+  "environment": "Default-62713587-7595-4973-8bab-78fc636e7993",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
